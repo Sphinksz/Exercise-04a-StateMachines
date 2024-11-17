@@ -1,7 +1,15 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+Exercise-04a-StateMachines
+
+Description
+State Machine and Animation Testing - 11/17/2024
 
 ## Implementation
-Which features you included.
+*Walking left/right animation.
+*Jumping animation
+*Falling animation
 
 ## References
 
@@ -11,5 +19,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
 
-## Created by
-Nathan Mishler
+## Created by Blake Swing
